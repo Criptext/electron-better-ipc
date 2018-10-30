@@ -1,5 +1,5 @@
 'use strict';
-const electron = require('electron');
+const electron = window.require('electron');
 const {serializeError, deserializeError} = require('serialize-error');
 const util = require('./util');
 
