@@ -1,6 +1,6 @@
 {
-	"name": "electron-better-ipc",
-	"version": "0.7.0",
+	"name": "@criptext/electron-better-ipc",
+	"version": "0.7.0-rc1-0.2",
 	"description": "Simplified IPC communication for Electron apps",
 	"license": "MIT",
 	"repository": "sindresorhus/electron-better-ipc",
